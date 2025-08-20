@@ -1,6 +1,7 @@
 # Previsao-de-Demanda-de-Eletricidade-com-ML
 Modelo de Machine Learning para prever a demanda horária de eletricidade utilizando Python, Pandas e XGBoost.
 
+<img width="6187" height="6003" alt="image" src="https://github.com/user-attachments/assets/00960dc3-2b5c-4e08-a7dc-0984f7a1f77d" />
 
 # **Resumo** 
 
